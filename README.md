@@ -1,0 +1,2 @@
+# ScriptHub
+Crime Autofarm Script
